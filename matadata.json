@@ -1,0 +1,8 @@
+
+{
+  "name": "EarnMaster - Telegram Mini App",
+  "description": "A feature-rich earning platform for Telegram with tasks, spin-to-win, referrals, and admin control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
